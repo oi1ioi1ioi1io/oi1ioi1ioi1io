@@ -1,4 +1,6 @@
-## Hi there👋, I'm oi1io
+<h1 align="center"></path></svg></a>Hi 👋, I'm oi1io</h1>
+
+<h3 align="center"></path></svg></a>I am a student at Incheon Information Science High School</h3>
 
 - 🔭 I’m currently working on ``쯔꾸르 게임 제작``
 
