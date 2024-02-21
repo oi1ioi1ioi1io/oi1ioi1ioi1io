@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning: ``C#, Python, Javascript, Lua``
 
-- 📞 How to reach me: ``Discord milcha0815``
+- 📞 How to reach me: ``Discord tairud``
 
 
 ### Learning
