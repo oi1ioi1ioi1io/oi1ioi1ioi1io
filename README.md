@@ -2,8 +2,6 @@
 
 <h3 align="center"></path></svg></a>I am a student at Incheon Information Science High School</h3>
 
-- 🔭 I’m currently working on ``쯔꾸르 게임 제작``
-
 - 🌱 I'm currently learning: ``C#, Python, Javascript, Lua``
 
 - 📞 How to reach me: ``Discord tairud``
