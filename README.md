@@ -1,5 +1,7 @@
 <h1 align="center"></path></svg></a>tairud's Hub</h1>
 
+<h3 align="center"></path></svg></a>Helloo I'm tairud</h3>
+
 - 🌱 I'm currently learning: ``C#, Python, Javascript, Lua``
 
 - 📞 How to reach me: ``Discord tairud``
